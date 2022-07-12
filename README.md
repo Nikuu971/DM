@@ -1,11 +1,11 @@
 # DM
 Devoir maison Thinking Positive Company
 
-#Tuto
+# Tuto
 Projet IntelliJ - sous Java 18
 
-#Execution
+# Execution
 Executer le code avec comme cible la classe Main
 
-#Test
+# Test
 Pour executer les tests : Ctrl+Maj+F10 
